@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyInternalExternal</string>
+    <string name="read">Read</string>
+    <string name="fail">fail</string>
+    <string name="input">input</string>
+    <string name="save_internal_app">save internal app</string>
+    <string name="external_save_mobile">external save mobile</string>
+    <string name="button_name1">save</string>
+</resources>
